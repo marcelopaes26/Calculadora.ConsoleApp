@@ -1,0 +1,29 @@
+C:\Users\Marcelo\OneDrive\Documentos\Academia do Programador\Calculadora.ConsoleApp\Calculadora.ConsoleApp\bin\Debug\net8.0\Calculadora.ConsoleApp.exe
+C:\Users\Marcelo\OneDrive\Documentos\Academia do Programador\Calculadora.ConsoleApp\Calculadora.ConsoleApp\bin\Debug\net8.0\Calculadora.ConsoleApp.deps.json
+C:\Users\Marcelo\OneDrive\Documentos\Academia do Programador\Calculadora.ConsoleApp\Calculadora.ConsoleApp\bin\Debug\net8.0\Calculadora.ConsoleApp.runtimeconfig.json
+C:\Users\Marcelo\OneDrive\Documentos\Academia do Programador\Calculadora.ConsoleApp\Calculadora.ConsoleApp\bin\Debug\net8.0\Calculadora.ConsoleApp.dll
+C:\Users\Marcelo\OneDrive\Documentos\Academia do Programador\Calculadora.ConsoleApp\Calculadora.ConsoleApp\bin\Debug\net8.0\Calculadora.ConsoleApp.pdb
+C:\Users\Marcelo\OneDrive\Documentos\Academia do Programador\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\OneDrive\Documentos\Academia do Programador\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Marcelo\OneDrive\Documentos\Academia do Programador\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.AssemblyInfo.cs
+C:\Users\Marcelo\OneDrive\Documentos\Academia do Programador\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\OneDrive\Documentos\Academia do Programador\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.sourcelink.json
+C:\Users\Marcelo\OneDrive\Documentos\Academia do Programador\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.dll
+C:\Users\Marcelo\OneDrive\Documentos\Academia do Programador\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\refint\Calculadora.ConsoleApp.dll
+C:\Users\Marcelo\OneDrive\Documentos\Academia do Programador\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.pdb
+C:\Users\Marcelo\OneDrive\Documentos\Academia do Programador\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.genruntimeconfig.cache
+C:\Users\Marcelo\OneDrive\Documentos\Academia do Programador\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\ref\Calculadora.ConsoleApp.dll
+C:\Users\Marcelo\OneDrive\Documentos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\bin\Debug\net8.0\Calculadora.ConsoleApp.exe
+C:\Users\Marcelo\OneDrive\Documentos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\bin\Debug\net8.0\Calculadora.ConsoleApp.deps.json
+C:\Users\Marcelo\OneDrive\Documentos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\bin\Debug\net8.0\Calculadora.ConsoleApp.runtimeconfig.json
+C:\Users\Marcelo\OneDrive\Documentos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\bin\Debug\net8.0\Calculadora.ConsoleApp.dll
+C:\Users\Marcelo\OneDrive\Documentos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\bin\Debug\net8.0\Calculadora.ConsoleApp.pdb
+C:\Users\Marcelo\OneDrive\Documentos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\OneDrive\Documentos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Marcelo\OneDrive\Documentos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.AssemblyInfo.cs
+C:\Users\Marcelo\OneDrive\Documentos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\OneDrive\Documentos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.dll
+C:\Users\Marcelo\OneDrive\Documentos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\refint\Calculadora.ConsoleApp.dll
+C:\Users\Marcelo\OneDrive\Documentos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.pdb
+C:\Users\Marcelo\OneDrive\Documentos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.genruntimeconfig.cache
+C:\Users\Marcelo\OneDrive\Documentos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\ref\Calculadora.ConsoleApp.dll
