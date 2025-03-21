@@ -27,3 +27,4 @@ C:\Users\Marcelo\OneDrive\Documentos\Calculadora.ConsoleApp\Calculadora.ConsoleA
 C:\Users\Marcelo\OneDrive\Documentos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.pdb
 C:\Users\Marcelo\OneDrive\Documentos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.genruntimeconfig.cache
 C:\Users\Marcelo\OneDrive\Documentos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\ref\Calculadora.ConsoleApp.dll
+C:\Users\Marcelo\OneDrive\Documentos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.sourcelink.json
