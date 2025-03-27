@@ -10,22 +10,9 @@
 
             while (true)
             {
-                Console.Clear();
-                Console.WriteLine("-------------------------------------------");
-                Console.WriteLine("\tCALCULADORA TABAJARA 2025");
-                Console.WriteLine("-------------------------------------------");
-                Console.WriteLine("1 - Soma");
-                Console.WriteLine("2 - Subtração");
-                Console.WriteLine("3 - Multiplicação");
-                Console.WriteLine("4 - Divisão");
-                Console.WriteLine("5 - Tabuada");
-                Console.WriteLine("6 - Histórico de operações");
-                Console.WriteLine("S - Sair");
+                string opcao = ExibirMenu();
 
-                Console.Write("Digite sua opção: ");
-                string opcao = Console.ReadLine().ToUpper();
-
-                if (opcao == "S")
+                if (OpcaoSairFoiEscolhida(opcao))
                 {
                     Console.WriteLine("Programa encerrado!");
                     break;
@@ -124,6 +111,41 @@
                 Console.ReadLine();
             }
 
+        }
+
+        static string ExibirMenu()
+        {
+            Console.Clear();
+            Console.WriteLine("-------------------------------------------");
+            Console.WriteLine("\tCALCULADORA TABAJARA 2025");
+            Console.WriteLine("-------------------------------------------");
+            Console.WriteLine("1 - Soma");
+            Console.WriteLine("2 - Subtração");
+            Console.WriteLine("3 - Multiplicação");
+            Console.WriteLine("4 - Divisão");
+            Console.WriteLine("5 - Tabuada");
+            Console.WriteLine("6 - Histórico de operações");
+            Console.WriteLine("S - Sair");
+
+            Console.Write("Digite sua opção: ");
+            string opcao = Console.ReadLine().ToUpper();
+
+            return opcao;
+
+        }
+
+        static bool OpcaoSairFoiEscolhida(string opcao)
+        {
+            bool opcaoSairFoiEscolhida = opcao == "S";
+
+            return opcaoSairFoiEscolhida;
+        }
+
+        static bool OpcaoTabuadaFoiEscolhida (string opcao)
+        {
+            bool opcaoTabuadaFoiEscolhida = opcao == "5";
+
+            return opcaoTabuadaFoiEscolhida;
         }
     }
 }
