@@ -6,7 +6,9 @@ namespace Calculadora.ConsoleApp
     internal class Program
     {
         static int contador = 0;
+        
         static string[] operacoesRealizadas = new string[100];
+
         static void Main(string[] args)
         {
             double resultado = 0, primeiroNumero = 0, segundoNumero = 0;
